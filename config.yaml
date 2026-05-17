@@ -1,0 +1,39 @@
+cookie:
+  expiry_days: 30
+  key: fraudshield_secret_key
+  name: fraudshield_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      first_name: Admin
+      last_name: ''
+      logged_in: false
+      password: $2b$12$Odk2wn6w0Fi65esdMzE4veFkV.MwfeKw0TttZMgJgtESy937v0Hz.
+      roles: null
+    arpit:
+      email: arpit@gmail.com
+      first_name: Arpit
+      last_name: Pandey
+      logged_in: false
+      password: $2b$12$67uynNi2W1hde85pGoVFHusy0so9rdxwwa3HbAO1xs9xCZtDIfa9m
+      roles: null
+    arpit29:
+      email: arpit.45767@gmail.com
+      first_name: Arpit
+      last_name: Pandey
+      logged_in: false
+      password: $2b$12$xLu7amk1yvKtyEYBLNo6Ie48S2u7bexTOPlQiQST0.7EHgdg5gpEy
+      password_hint: Ap@
+      roles: null
+    rachit26:
+      email: arpit.29112204@gmail.com
+      first_name: Rachit
+      last_name: Gangwar
+      logged_in: false
+      password: $2b$12$r38NzMQklAFStWpp7mRvkOvjXS04WEWHkRek07gNjzZeWMl.Xxk6y
+      password_hint: rachit
+      roles: null
+preauthorized:
+  emails:
+  - arpit@gmail.com
